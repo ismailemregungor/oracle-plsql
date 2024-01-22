@@ -1,0 +1,4 @@
+sys ve system icin sys
+hr icin hr
+OracleData için OracleData
+orcl
